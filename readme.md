@@ -1,1 +1,1 @@
-Turtle race game!
+Turtle race game using the turtle module
